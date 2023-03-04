@@ -12,4 +12,6 @@ Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
 
 
-https://romeuoliveira.github.io/barbearia_da_alura/
+https://romeuoliveira.github.io/barbearia_da_alura.html
+https://romeuoliveira.github.io/barbearia_da_alura/Produtos.html
+
