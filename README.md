@@ -1,10 +1,9 @@
 # barbearia_da_alura
-Pg inicial, Pg produtos e Pg formulário do site  Barbearia  Alura,  curso de HTML5 e  CSS3 da Alura
+Página inicial, página produtos e página formulário do site  Barbearia  Alura,  curso de HTML5 e  CSS3 da Alura, usando VS code.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" /> 
 
-
+Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 - um projeto com HTML e CSS do zero
 - Entenda como o CSS funciona de forma prática
 - a importância do HTML semântico e boas práticas de desenvolvimento
