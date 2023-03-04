@@ -20,6 +20,8 @@ Curso de
 
 https://romeuoliveira.github.io/barbearia_da_alura/
 
-https://romeuoliveira.github.io/barbearia_da_alura//Produtos.html
+https://romeuoliveira.github.io/barbearia_da_alura/produtos.html
+
+https://romeuoliveira.github.io/barbearia_da_alura//contato.html
 
 
