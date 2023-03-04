@@ -9,3 +9,7 @@ Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 - a importância do HTML semântico e boas práticas de desenvolvimento
 - extrair a cor do Figma para utilizar no CSS
 - criar um arquivo externo para estilizar a página
+
+
+
+https://romeuoliveira.github.io/barbearia_da_alura/
